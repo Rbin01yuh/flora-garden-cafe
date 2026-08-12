@@ -19,12 +19,12 @@ const business = {
   established: "2021",
   aboutText: "Flora Garden Cafe & Resto menghadirkan oasis hijau di jantung Lubuk Pakam. Dikelilingi pepohonan rimbun dan taman bunga tropis, tempat ini cocok untuk makan malam keluarga, arisan, hingga acara ulang tahun dengan hidangan nusantara & internasional unggulan.",
   menu: [
-    { name: "Ayam Bakar Taliwang Flora", price: "Rp 45.000", desc: "Ayam kampung muda dibakar bumbu taliwang pedas gurih disajikan dengan plecing kangkung", isPopular: true, image: "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&w=600&q=80" },
-    { name: "Nasi Goreng Andaliman", price: "Rp 38.000", desc: "Nasi goreng khas Sumatera Utara bersensasi getar hangat rempah andaliman + udang segar", isPopular: true, image: "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=600&q=80" },
-    { name: "Peanut Butter Espresso Latte", price: "Rp 28.000", desc: "Perpaduan unik espresso house-blend dengan tekstur creamy selai kacang gurih", isPopular: true, image: "https://images.unsplash.com/photo-1517701604599-bb29b565090c?auto=format&fit=crop&w=600&q=80" },
-    { name: "Chicken Pan-Grilled Herb Butter", price: "Rp 52.000", desc: "Dada ayam panggang saus mentega rempah disajikan bersama potato wedges & fresh salad", isPopular: false, image: "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=600&q=80" },
-    { name: "Waffle Strawberry Vanilla Gelato", price: "Rp 32.000", desc: "Waffle renyah bertoping buah strawberry segar, saus cokelat cair dan gelato vanilla", isPopular: false, image: "https://images.unsplash.com/photo-1562376552-0d160a2f238d?auto=format&fit=crop&w=600&q=80" },
-    { name: "Crispy Enoki & Ubi Srikaya", price: "Rp 24.000", desc: "Camilan pembuka kombinasi jamur enoki krispi dan ubi manis goreng saus srikaya", isPopular: false, image: "https://images.unsplash.com/photo-1541544741938-0af808871cc0?auto=format&fit=crop&w=600&q=80" }
+    { name: "Ayam Bakar Taliwang Flora", price: "Rp 45.000", desc: "Ayam kampung muda dibakar bumbu taliwang pedas gurih disajikan dengan plecing kangkung", isPopular: true, image: "/images/hero.png" },
+    { name: "Nasi Goreng Andaliman", price: "Rp 38.000", desc: "Nasi goreng khas Sumatera Utara bersensasi getar hangat rempah andaliman + udang segar", isPopular: true, image: "/images/hero.png" },
+    { name: "Peanut Butter Espresso Latte", price: "Rp 28.000", desc: "Perpaduan unik espresso house-blend dengan tekstur creamy selai kacang gurih", isPopular: true, image: "/images/hero.png" },
+    { name: "Chicken Pan-Grilled Herb Butter", price: "Rp 52.000", desc: "Dada ayam panggang saus mentega rempah disajikan bersama potato wedges & fresh salad", isPopular: false, image: "/images/hero.png" },
+    { name: "Waffle Strawberry Vanilla Gelato", price: "Rp 32.000", desc: "Waffle renyah bertoping buah strawberry segar, saus cokelat cair dan gelato vanilla", isPopular: false, image: "/images/hero.png" },
+    { name: "Crispy Enoki & Ubi Srikaya", price: "Rp 24.000", desc: "Camilan pembuka kombinasi jamur enoki krispi dan ubi manis goreng saus srikaya", isPopular: false, image: "/images/hero.png" }
   ],
   features: ["Outdoor Garden View", "Ruang VIP Ber-AC", "Area Playroom Anak", "Live Acoustic Weekend"]
 };
